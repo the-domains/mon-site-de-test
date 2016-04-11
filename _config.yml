@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.0609319
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.5652487
+  rhythmicContrast: 0.7401434
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Mon site de test
